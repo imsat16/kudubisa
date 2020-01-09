@@ -1,4 +1,4 @@
 console.log('ok');
 function pesan () {
-	alert("menampilkan pesan dengan eksternal javascript");
+	alert("menghapus pesan dengan eksternal javascript");
 }
